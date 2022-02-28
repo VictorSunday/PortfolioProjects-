@@ -3,7 +3,7 @@ from CovidDeath
 where Location ='United kingdom'
 order by 1,2
  
- --the above looks at the Total cases Vs Total Deaths in the United Kinfdom 
+ --the above looks at the Total cases Vs Total Deaths in the United Kingdom 
  --likelihood of dying from covid in the United kingdom 
 
  --Looking at the Total cases vs poluation 
