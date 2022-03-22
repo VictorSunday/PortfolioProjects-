@@ -15,7 +15,7 @@ where Location ='United kingdom'
 order by 1,2
 
 --looking at Tocal cases vs Population 
---shows the percentage that got covid in nigeria 
+--shows the percentage that got covid in nigeria
 
  Select Location,date,Population,total_cases,(total_cases/Population)*100 as Percentpopulationinfected
 from CovidDeath
